@@ -1,5 +1,5 @@
 (*
-Start an action using to get executed by Finder
+Start an action to get executed by Finder
 *)
 tell application "Finder"
 	(*
